@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# lumawen-guitar
+# lumawen-guitars
 
 Open-source guitar designs built around Lumawen hexaphonic pickups.
 
